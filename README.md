@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aradhya
 - 👀 I’m interested in Computer Science, DSA, Backend Development 
 - 🌱 I’m currently learning Backend Delvelopment
-- 💞️ I’m looking to collaborate on any backend realted projects
-- 📫 How to reach me on my email: aradhyakhatiyan22@gmail.com
+- 💞️ I’m looking to collaborate on any backend related projects
+- 📫 How to reach me  email: aradhyakhatiyan22@gmail.com
 - 
 
 <!---
