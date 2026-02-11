@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Aradhya
-- 💞️ I’m looking to collaborate on any backend related projects
-- 📫 How to reach me  email: aradhyakhatiyan22@gmail.com
-- 
 
 <!---
 AradhyaK22/AradhyaK22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
